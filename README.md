@@ -2,7 +2,6 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail)](mailto:alexandreafb45@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/alexandre-ferreira-7914731ba/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/AleFerreiraa)
 
 
 ## Habilidades
